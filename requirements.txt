@@ -1,5 +1,5 @@
 # Deep Learning Framework
-tensorflow==2.15.0
+tensorflow==2.17.0
 
 # FastAPI and Server
 fastapi==0.104.1
